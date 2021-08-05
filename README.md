@@ -1,2 +1,2 @@
 # hello-world
-Intro to Guthub
+This is just me going through the tutorial!
